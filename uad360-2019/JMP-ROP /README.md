@@ -1,11 +1,3 @@
----
-layout: post
-title: JMP ROP - uad360
-author: devploit
-item_image: https://i.imgur.com/lxhipq0.jpg
-tags: ctf uad360 boot2root rop
----
-
 ### 0x01 Challenge:
 
 **Level:** Medium
