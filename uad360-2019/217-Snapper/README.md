@@ -1,11 +1,3 @@
----
-layout: post
-title: 217 Snapper - uad360
-author: devploit
-item_image: https://i.imgur.com/zOPzzBc.png
-tags: ctf uad360 boot2root lfi wordpress snap
----
-
 ### 0x01 Challenge:
 
 **Level:** Easy-Medium
